@@ -1,0 +1,20 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icon">
+<rect x="0.5" y="0.5" width="47" height="47" rx="3.5" fill="#121214"/>
+<rect x="0.5" y="0.5" width="47" height="47" rx="3.5" fill="url(#paint0_linear_833_104)"/>
+<g id="Emoji">
+<path id="Vector" d="M33.9586 22.434C33.8612 22.1733 33.6119 22 33.3332 22H25.2832L29.9266 12.972C30.0726 12.688 29.9972 12.3407 29.7459 12.1433C29.6246 12.0473 29.4786 12 29.3332 12C29.1779 12 29.0226 12.0547 28.8979 12.162L23.9999 16.392L14.2312 24.8287C14.0206 25.0107 13.9446 25.3047 14.0419 25.5653C14.1392 25.826 14.3879 26 14.6666 26H22.7166L18.0732 35.028C17.9272 35.312 18.0026 35.6593 18.2539 35.8567C18.3752 35.9527 18.5212 36 18.6666 36C18.8219 36 18.9772 35.9453 19.1019 35.838L23.9999 31.608L33.7686 23.1713C33.9799 22.9893 34.0552 22.6953 33.9586 22.434Z" fill="#FFAC33"/>
+</g>
+<rect x="0.5" y="0.5" width="47" height="47" rx="3.5" stroke="url(#paint1_linear_833_104)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_833_104" x1="24" y1="0" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#202024"/>
+<stop offset="1" stop-color="#202024" stop-opacity="0.2"/>
+</linearGradient>
+<linearGradient id="paint1_linear_833_104" x1="24" y1="0" x2="24" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#323238"/>
+<stop offset="1" stop-color="#323238" stop-opacity="0.3"/>
+</linearGradient>
+</defs>
+</svg>

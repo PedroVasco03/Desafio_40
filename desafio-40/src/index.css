@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Roboto;
+  src: url('../src/pages/homepage/components/fonts/Roboto/Roboto-Regular.ttf');
+}
+
+*{
+  margin: 0 ;
+  padding: 0 ;
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
+a{
+  list-style: none;
+}
+
+body{
+  background-color: #09090A;
+}
